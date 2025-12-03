@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@iconify/react": "^6.0.2",
     "@nextui-org/react": "^2.6.11",
     "framer-motion": "^12.23.25",
     "next": "16.0.7",

@@ -12,7 +12,7 @@ export default function MainNavbar() {
   return (
     <Navbar
       maxWidth="xl"
-      className="bg-white/90 backdrop-blur-md shadow-sm border-b border-gray-200"
+      className="bg-white/90 backdrop-blur-md shadow-sm border-b border-gray-200 sticky top-0 z-50"
     >
       {/* Logo */}
       <NavbarBrand>
